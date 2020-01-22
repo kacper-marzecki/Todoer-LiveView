@@ -1,0 +1,2 @@
+<h1> Todos : </h1>
+<%= live_render(@conn, TodoerWeb.TodoLive) %>
